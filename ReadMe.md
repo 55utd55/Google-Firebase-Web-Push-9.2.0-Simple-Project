@@ -1,9 +1,9 @@
-﻿# Google Firebase Web Push 9.2.0 Simple Project
+﻿# Google Firebase Web Push 9.2.0 Simple Project (Without Node.js)
 This project is coded by **55utd55**. In this project, it was coded according to the old system of Firebase Cloud Messaging API. No OAuth technology has been added to this project. 
-*There is no need to use MySql in this project.*
+*There is no need to use MySql and Node.js in this project.*
 
 ## Setup Video
-Youtube: [55utd55](https://www.youtube.com/channel/UCCHzxgWdt13iYhzeIXCMSww)
+Youtube: [55utd55](https://www.youtube.com/watch?v=ngLy48498-0)
 
 ## Setup Steps
 
